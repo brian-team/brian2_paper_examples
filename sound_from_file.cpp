@@ -71,7 +71,7 @@ void readHeader(FILE *wavfile) {
 }
 
 FILE *init_file() {
-    FILE *wavfile = fopen("/home/marcel/programming/brian2_paper_examples/scale_flute.wav", "r");
+    FILE *wavfile = fopen(FILENAME, "r");  // will be replaced via macro
     readHeader(wavfile);
     return wavfile;
 }
