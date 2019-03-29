@@ -12,5 +12,4 @@ dependencies:
   - scipy=1.2*
   - matplotlib=2.1*
   - ipympl=0.2*
-  - pip:
-     - "git+https://github.com/brian-team/brian2.git"
+  - brian2=2.2.2.1
