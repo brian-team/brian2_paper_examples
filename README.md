@@ -16,3 +16,6 @@ $ conda env create -f environment.yml
 
 To run the notebooks in the [binder](https://mybinder.org/) environment, without requiring any installation on your local computer, use the following link: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brian-team/brian2_paper_examples/master?filepath=index.ipynb)
+
+The code and data in this repository are dual-licensed under the [Creative Commons Attribution 4.0 International Public License](LICENSE.CC-BY-4.0) and the
+[MIT license](LICENSE.MIT), you can chose between them if you use this work.
